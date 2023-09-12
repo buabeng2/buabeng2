@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey there 👋
+My name is Jared Buabeng  I am a chemical engineering student at the University of Illinois with a minor in Computer Science. I've fallen in love with computer science, and I hope you find some of my projects interesting! I am currently working on various front-end projects, such as a library and cool Python machine-learning projects, and I hope to add them to my online repository soon. I am currently learning Full-Stack Web Development and Game Development through Python. I am looking for an internship for the summer of 2024.You can contact me by email at buabengjared@gmail.com
 
 <!--
 **buabeng2/buabeng2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
